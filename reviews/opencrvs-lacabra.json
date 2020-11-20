@@ -1,0 +1,41 @@
+{
+  "license": {
+    "answer": true
+  },
+  "SDG[0]": {
+    "answer": false
+  },
+  "SDG[1]": {
+    "answer": true
+  },
+  "SDG[2]": {
+    "answer": false
+  },
+  "SDG[3]": {
+    "answer": false
+  },
+  "SDG[4]": {
+    "answer": true
+  },
+  "SDG[5]": {
+    "answer": true
+  },
+  "SDG[6]": {
+    "answer": false
+  },
+  "SDG[7]": {
+    "answer": true
+  },
+  "SDG[8]": {
+    "answer": true
+  },
+  "SDG[9]": {
+    "answer": true
+  },
+  "ownership": {
+    "answer": false
+  },
+  "documentation": {
+    "answer": true
+  }
+}
