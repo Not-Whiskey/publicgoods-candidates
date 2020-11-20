@@ -1,0 +1,20 @@
+{
+  "license": {
+    "answer": true
+  },
+  "SDG[0]": {
+    "answer": false
+  },
+  "SDG[1]": {
+    "answer": true
+  },
+  "SDG[2]": {
+    "answer": false
+  },
+  "ownership": {
+    "answer": true
+  },
+  "documentation": {
+    "answer": false
+  }
+}
