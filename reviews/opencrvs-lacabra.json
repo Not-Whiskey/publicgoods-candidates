@@ -1,0 +1,57 @@
+{
+  "license": {
+    "answer": true,
+    "comment": "comment 1",
+    "confidence": "4"
+  },
+  "SDG[0]": {
+    "answer": false,
+    "comment": "comment2",
+    "confidence": "2"
+  },
+  "SDG[1]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "5"
+  },
+  "SDG[2]": {
+    "answer": false,
+    "comment": "",
+    "confidence": "1"
+  },
+  "SDG[3]": {
+    "answer": true,
+    "comment": "comment 5",
+    "confidence": "4"
+  },
+  "SDG[4]": {
+    "answer": false,
+    "comment": "comment 6",
+    "confidence": "2"
+  },
+  "SDG[5]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[6]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "SDG[7]": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "ownership": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  },
+  "documentation": {
+    "answer": true,
+    "comment": "",
+    "confidence": "4"
+  }
+}
